@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ebit_slice
+Z0 w1666059708
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 01
+Z4 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd
+Z5 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd
+l0
+L9
+VD`iDfkkHah2mWVA^Nd<IK3
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1666141186.903000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd|
+Z9 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 MDJ<V9z4VeH_mo0laCH;00
+!i10b 1
+Aalu
+R1
+R2
+DEx4 work 9 bit_slice 0 22 D`iDfkkHah2mWVA^Nd<IK3
+l26
+L15
+VCI:??3f6`c8?e9XA@[8=K1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 clJB;2TNehDzFUVE<T3h]2
+!i10b 1
+Efulladd
+Z12 w1666054787
+R1
+R2
+R3
+Z13 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd
+Z14 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd
+l0
+L4
+VJTl6GW6Yci__E[;mb54h02
+R6
+32
+Z15 !s108 1666141187.524000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd|
+Z17 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd|
+R10
+R11
+!s100 ^NQ:ILi31`Wl;SU;T8NBW0
+!i10b 1
+Aadd1
+R1
+R2
+DEx4 work 7 fulladd 0 22 JTl6GW6Yci__E[;mb54h02
+l10
+L9
+VOe_ilO?bzMcfNSkaQz2:N2
+!s100 YeKEMcD`L@7Am5kMX4RWE0
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!i10b 1
+Emsb_slice
+Z18 w1666059672
+R1
+R2
+R3
+Z19 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd
+Z20 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd
+l0
+L10
+V01GDX71;07NSh8K7W`m=V0
+!s100 fjILOVD>_MmBF90Zlj`3j2
+R6
+32
+!i10b 1
+Z21 !s108 1666141187.736000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd|
+Z23 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd|
+R10
+R11
+Aalu
+R1
+R2
+Z24 DEx4 work 9 msb_slice 0 22 01GDX71;07NSh8K7W`m=V0
+l27
+L16
+Z25 VTU`=jjBjR;hMgXQ?7E6?m1
+Z26 !s100 nkH;f`mch>K0hMjn0;FX?3
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11

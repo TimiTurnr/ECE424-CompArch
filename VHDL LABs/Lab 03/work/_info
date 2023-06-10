@@ -1,0 +1,574 @@
+m255
+K3
+13
+cModel Technology
+dH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 01
+Ealu32
+Z0 w1669784776
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03
+Z4 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 02\ALU32.vhd
+Z5 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 02\ALU32.vhd
+l0
+L4
+VnMMoL=@ATk`U?GhE1m`RY0
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1670479128.577000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 02\ALU32.vhd|
+Z9 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 02\ALU32.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 ^`c1oFoF5JXXFd4A2h]__0
+!i10b 1
+Astructural
+R1
+R2
+DEx4 work 5 alu32 0 22 nMMoL=@ATk`U?GhE1m`RY0
+l32
+L11
+VIdJh?[nYeLDP4?l7k3FlQ3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 o5ajm_;n7<^<z@d5NCWJz3
+!i10b 1
+Ealu_control
+Z12 w1670467469
+Z13 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R1
+R2
+R3
+Z15 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\alu_control.vhd
+Z16 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\alu_control.vhd
+l0
+L15
+VNg8iXR[FXf>^`o^69U7nR2
+R6
+32
+Z17 !s108 1670479128.748000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\alu_control.vhd|
+Z19 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\alu_control.vhd|
+R10
+R11
+!s100 <Q00;zJWUdlnO]o`7>LDI2
+!i10b 1
+Abehavioral
+R13
+R14
+R1
+R2
+DEx4 work 11 alu_control 0 22 Ng8iXR[FXf>^`o^69U7nR2
+l26
+L25
+V2TNekgTX7z`P`ez;3U8Z12
+R6
+32
+R17
+R18
+R19
+R10
+R11
+!s100 Ba:GhQ_G2m1PndHk7l:NI2
+!i10b 1
+Ebit_slice
+Z20 w1666056108
+R1
+R2
+R3
+Z21 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd
+Z22 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd
+l0
+L9
+VD`iDfkkHah2mWVA^Nd<IK3
+R6
+32
+Z23 !s108 1670479130.445000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd|
+Z25 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd|
+R10
+R11
+!s100 MDJ<V9z4VeH_mo0laCH;00
+!i10b 1
+Aalu
+R1
+R2
+DEx4 work 9 bit_slice 0 22 D`iDfkkHah2mWVA^Nd<IK3
+l26
+L15
+VCI:??3f6`c8?e9XA@[8=K1
+R6
+32
+R23
+R24
+R25
+R10
+R11
+!s100 clJB;2TNehDzFUVE<T3h]2
+!i10b 1
+Econtrol
+Z26 w1670466144
+Z27 DPx4 work 10 mips_types 0 22 zOA=QH?K3M6zimMfiX2W21
+R13
+R14
+R1
+R2
+R3
+Z28 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\control.vhd
+Z29 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\control.vhd
+l0
+L16
+VXiMhaCbF6aY2HL]=BJcGE2
+R6
+32
+Z30 !s108 1670479128.909000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\control.vhd|
+Z32 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\control.vhd|
+R10
+R11
+!s100 5ZdP5aP?BV2Y3]iGZ93HM2
+!i10b 1
+Abehavioral
+R27
+R13
+R14
+R1
+R2
+DEx4 work 7 control 0 22 XiMhaCbF6aY2HL]=BJcGE2
+l29
+L28
+VJ6hR3U0NR5ld1Pa;82[>m2
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 Mm@ha<N]1bh2J@YHQVEgz3
+!i10b 1
+Edatapath
+Z33 w1670479007
+R27
+R13
+R14
+R1
+R2
+R3
+Z34 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\datapath.vhd
+Z35 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\datapath.vhd
+l0
+L7
+V7;<J6a2SaOn5VfJC=[<bf0
+R6
+32
+Z36 !s108 1670479130.267000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\datapath.vhd|
+Z38 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\datapath.vhd|
+R10
+R11
+!s100 e0C=zhnVS=eX;hSMd_V;G0
+!i10b 1
+Apath
+R27
+R13
+R14
+R1
+R2
+DEx4 work 8 datapath 0 22 7;<J6a2SaOn5VfJC=[<bf0
+l133
+L12
+VCQP[;dT3YYaINGSUUXKNC1
+R6
+32
+R36
+R37
+R38
+R10
+R11
+!s100 CWaa>3kdf1MAFhlk:24Bk0
+!i10b 1
+Edmemory
+Z39 w1670479121
+R27
+R13
+R14
+R1
+R2
+R3
+Z40 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\dmem.vhd
+Z41 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\dmem.vhd
+l0
+L21
+V5_zB[8^HU:VQ5a71f3le41
+R6
+32
+Z42 !s108 1670479129.085000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\dmem.vhd|
+Z44 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\dmem.vhd|
+R10
+R11
+!s100 PAjd<`BngCg;mNkkzg:DJ1
+!i10b 1
+Artl
+R27
+R13
+R14
+R1
+R2
+DEx4 work 7 dmemory 0 22 5_zB[8^HU:VQ5a71f3le41
+l48
+L33
+V`15n@JXLNPD_E5;lAmXKG3
+R6
+32
+R42
+R43
+R44
+R10
+R11
+!s100 P9D?=0P6K@cUY;U<]0Y_e2
+!i10b 1
+Efulladd
+Z45 w1666051187
+R1
+R2
+R3
+Z46 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd
+Z47 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd
+l0
+L4
+VJTl6GW6Yci__E[;mb54h02
+!s100 ^NQ:ILi31`Wl;SU;T8NBW0
+R6
+32
+!i10b 1
+Z48 !s108 1670479131.085000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd|
+Z50 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd|
+R10
+R11
+Aadd1
+R1
+R2
+Z51 DEx4 work 7 fulladd 0 22 JTl6GW6Yci__E[;mb54h02
+l10
+L9
+Z52 VOe_ilO?bzMcfNSkaQz2:N2
+Z53 !s100 YeKEMcD`L@7Am5kMX4RWE0
+R6
+32
+!i10b 1
+R48
+R49
+R50
+R10
+R11
+Eimemory
+Z54 w1670395576
+R27
+R13
+R14
+R1
+R2
+R3
+Z55 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\imem.vhd
+Z56 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\imem.vhd
+l0
+L19
+Vgmbf`;E;SI@E]:hT2^5eh0
+R6
+32
+Z57 !s108 1670479129.263000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\imem.vhd|
+Z59 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\imem.vhd|
+R10
+R11
+!s100 z>bE2B9=i=A]Jazg`boHE1
+!i10b 1
+Artl
+R27
+R13
+R14
+R1
+R2
+DEx4 work 7 imemory 0 22 gmbf`;E;SI@E]:hT2^5eh0
+l47
+L27
+Vz<7CB_``9W7JcmZfDm^AO0
+R6
+32
+R57
+R58
+R59
+R10
+R11
+!s100 k2QUgk2ToXOnU_A[5lHgX1
+!i10b 1
+Pmips_types
+R13
+R14
+R1
+R2
+w1670304923
+R3
+8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd
+FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd
+l0
+L13
+VzOA=QH?K3M6zimMfiX2W21
+R6
+32
+R10
+R11
+!s100 UAZ[IKE]9R?Iz12H45TOX0
+!i10b 1
+!s108 1670479127.896000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd|
+!s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd|
+Emsb_slice
+Z60 w1666056072
+R1
+R2
+R3
+Z61 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd
+Z62 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd
+l0
+L10
+V01GDX71;07NSh8K7W`m=V0
+R6
+32
+Z63 !s108 1670479130.608000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd|
+Z65 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd|
+R10
+R11
+!s100 fjILOVD>_MmBF90Zlj`3j2
+!i10b 1
+Aalu
+R1
+R2
+DEx4 work 9 msb_slice 0 22 01GDX71;07NSh8K7W`m=V0
+l27
+L16
+VTU`=jjBjR;hMgXQ?7E6?m1
+!s100 nkH;f`mch>K0hMjn0;FX?3
+R6
+32
+R63
+R64
+R65
+R10
+R11
+!i10b 1
+Emux2
+Z66 w1670304924
+R27
+R13
+R14
+R1
+R2
+R3
+Z67 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd
+Z68 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd
+l0
+L16
+VjQ;gdjRd51CV=PnX9T<<>3
+R6
+32
+Z69 !s108 1670479129.431000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd|
+Z71 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd|
+R10
+R11
+!s100 4B;[ULm4ZUgkEfZzSDaX00
+!i10b 1
+Abehavioral
+R27
+R13
+R14
+R1
+R2
+DEx4 work 4 mux2 0 22 jQ;gdjRd51CV=PnX9T<<>3
+l25
+L24
+V8@FeB<30KS;f5F`ALzl@O3
+R6
+32
+R69
+R70
+R71
+R10
+R11
+!s100 ;T1[[1Bm>SBn:nYNDXi<[0
+!i10b 1
+Emux2a
+R66
+R27
+R13
+R14
+R1
+R2
+R3
+Z72 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd
+Z73 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd
+l0
+L16
+VT6^H[VY7gIYBb^fnXmz>V2
+R6
+32
+Z74 !s108 1670479129.604000
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd|
+Z76 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd|
+R10
+R11
+!s100 a:4ISBlUGLEkSeVZb0`I[2
+!i10b 1
+Abehavioral
+R27
+R13
+R14
+R1
+R2
+DEx4 work 5 mux2a 0 22 T6^H[VY7gIYBb^fnXmz>V2
+l25
+L24
+V]?GSWledU9LdC^56m<6ho1
+R6
+32
+R74
+R75
+R76
+R10
+R11
+!s100 =?JzcRZZP1PDR3Leof=F^2
+!i10b 1
+Ereg_file
+R66
+R27
+R13
+R14
+R1
+R2
+R3
+Z77 8H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\reg_file.vhd
+Z78 FH:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\reg_file.vhd
+l0
+L37
+V]4ZeAYLIWQT<h^]W_kIoN0
+R6
+32
+Z79 !s108 1670479129.775000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\reg_file.vhd|
+Z81 !s107 H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\reg_file.vhd|
+R10
+R11
+!s100 MQ[:i=MLFh?HRiL?Fa?d50
+!i10b 1
+Abehavior
+R27
+R13
+R14
+R1
+R2
+DEx4 work 8 reg_file 0 22 ]4ZeAYLIWQT<h^]W_kIoN0
+l50
+L48
+VoWYd[8zj_<c_8Szdo7joj0
+R6
+32
+R79
+R80
+R81
+R10
+R11
+!s100 dKHdV>zAAJb;l[iQZ:HeX0
+!i10b 1
+Eshiftleft
+R66
+R27
+R13
+R14
+R1
+R2
+R3
+Z82 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd
+Z83 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd
+l0
+L17
+Vazk]V7okZlHaz:6@2e4@52
+R6
+32
+Z84 !s108 1670479129.950000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd|
+Z86 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd|
+R10
+R11
+!s100 k_8iG6PTdgYH:[?ZE^1cE3
+!i10b 1
+Abehavioral
+R27
+R13
+R14
+R1
+R2
+DEx4 work 9 shiftleft 0 22 azk]V7okZlHaz:6@2e4@52
+l23
+L22
+V03OGGkHQm@LFjR]LRhe6z2
+R6
+32
+R84
+R85
+R86
+R10
+R11
+!s100 dMTQL6TV9Wko56D^Bl[i83
+!i10b 1
+Esignextend
+R66
+R27
+R13
+R14
+R1
+R2
+R3
+Z87 8H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd
+Z88 FH:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd
+l0
+L15
+VDIT0IdQf8TmHeokLLG8fQ1
+R6
+32
+Z89 !s108 1670479130.109000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd|
+Z91 !s107 H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd|
+R10
+R11
+!s100 z@RWVO<JJ]lEo1SR54KdW0
+!i10b 1
+Abehavioral
+R27
+R13
+R14
+R1
+R2
+DEx4 work 10 signextend 0 22 DIT0IdQf8TmHeokLLG8fQ1
+l22
+L21
+VZ]^9X^MD4;@YE0OA>ZNfU3
+R6
+32
+R89
+R90
+R91
+R10
+R11
+!s100 D91i=?3dS>MYXRHh1>0O52
+!i10b 1

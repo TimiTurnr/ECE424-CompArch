@@ -1,0 +1,151 @@
+{H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mips_types.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling package mips_types
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2a.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity mux2a
+-- Compiling architecture behavioral of mux2a
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity bit_slice
+-- Compiling architecture alu of bit_slice
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MSB_slice
+-- Compiling architecture alu of MSB_slice
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/sign.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity signextend
+-- Compiling architecture behavioral of signextend
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/alu_control.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\alu_control.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu_control
+-- Compiling architecture behavioral of alu_control
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/mux2.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity mux2
+-- Compiling architecture behavioral of mux2
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/reg_file.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\reg_file.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity reg_file
+-- Compiling architecture behavior of reg_file
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/shift.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity shiftleft
+-- Compiling architecture behavioral of shiftleft
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/imem.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\imem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity imemory
+-- Compiling architecture rtl of imemory
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 02/ALU32.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 02\ALU32.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU32
+-- Compiling architecture Structural of ALU32
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/datapath.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\datapath.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity datapath
+-- Compiling architecture path of datapath
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/control.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\control.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity control
+-- Compiling architecture behavioral of control
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 03/SC_datapath_vhd_files/dmem.vhd} {1 {vcom -work work -2002 -explicit {H:\Fall 2022\ECE 424 Computer Architecture\VHDL LABs\Lab 03\SC_datapath_vhd_files\dmem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package mips_types
+-- Compiling entity dmemory
+-- Compiling architecture rtl of dmemory
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladd
+-- Compiling architecture Add1 of fulladd
+
+} {} {}}

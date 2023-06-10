@@ -1,0 +1,25 @@
+{H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/MSB_slice.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MSB_slice
+-- Compiling architecture alu of MSB_slice
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/bit_slice.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity bit_slice
+-- Compiling architecture alu of bit_slice
+
+} {} {}} {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd} {1 {vcom -work work -2002 -explicit {H:/Fall 2022/ECE 424 Computer Architecture/VHDL LABs/Lab 01/fulladd.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladd
+-- Compiling architecture Add1 of fulladd
+
+} {} {}}
